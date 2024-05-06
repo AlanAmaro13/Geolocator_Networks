@@ -15,3 +15,6 @@ The fundamental component in this device is the arduino NANO, the Arduino commun
 
 ## What is its main purpose?
 I've done this project for a low-cost device able to get GPS coordenates and send it by the communications networks. This is my (very short) contribuition in order to increses security and reduce the number of missing people. 
+
+## Scientific poster:
+![Scientific Poster](https://github.com/AlanAmaro13/Geolocator_Networks/blob/main/Poster%20Cient%C3%ADfico%20Llamativo%20Peri%C3%B3dico%20Vintage%20Marr%C3%B3n.png)
